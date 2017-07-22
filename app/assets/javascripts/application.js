@@ -14,4 +14,5 @@
 //= require turbolinks
 //= require jquery
 //= require materialize-sprockets
+//= require toastr
 //= require_tree .
